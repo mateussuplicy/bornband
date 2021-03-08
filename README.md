@@ -6,7 +6,7 @@ O objetivo principal desse projeto é facilitar o musico, em sua busca de formar
 # Nicho
 O Bornband será desenvolvido para os músicos  em que estão  a procura de formar uma banda e também  na busca de casas de shows para tocar.  
 
-# nome dos participantes
+# Nome dos participantes
 Mateus Lemos Suplicy
 
 # Tecnologia
