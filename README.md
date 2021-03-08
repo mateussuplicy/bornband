@@ -11,5 +11,7 @@ Mateus Lemos Suplicy
 
 # Tecnologia
 Linguagem-Javascript
+
 Banco de dados-SQLite
+
 framework-React native + node.js
